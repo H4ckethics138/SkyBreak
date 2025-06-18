@@ -76,7 +76,7 @@ http://127.0.0.1:5000
 
 ## YouTube Tutorial
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/CyoS_PxDxf8/0.jpg)]( comming soon tutorial)
+[![YouTube Video Thumbnail](https://github.com/H4ckethics138/SkyBreak/blob/main/Screenshot_2025-06-18-18-51-47-43_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)]( comming soon tutorial)
 
 Click photo and watch youtube tutorial
 
